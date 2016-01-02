@@ -1,0 +1,1 @@
+Reconhecimento de seres vivos utilizando Inteligência Artificial - método perceptron
